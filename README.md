@@ -40,43 +40,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-### 🎬 Movie Search App
-
-🔹 Built with React + API integration
-🔹 Real-time search with dynamic UI
-🔹 Clean and responsive design
-
-👉 [View Project](YOUR_PROJECT_LINK)
-
----
-
-### 💰 Personal Finance Manager
-
-🔹 Java OOP application
-🔹 File handling & exception management
-🔹 Focus on scalable architecture
-
-👉 [View Project](YOUR_PROJECT_LINK)
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
-</p>
-
----
 
 ## 📚 Currently Learning
 
@@ -84,15 +47,3 @@
 ⚛️ Advanced React & Performance Optimization
 🧠 System Design Fundamentals
 
----
-
-## 🌐 Connect With Me
-
-📧 [your-email@example.com](mailto:your-email@example.com)
-💼 LinkedIn: YOUR_LINK
-
----
-
-## ⚡ Fun Fact
-
-I enjoy turning ideas into real-world applications and continuously pushing my limits in tech 🚀
